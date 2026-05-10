@@ -43,7 +43,4 @@
 
 ---
 
-## 📊 Estadísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Pablo-UHU&show_icons=true&theme=default&hide_border=true)
-    
