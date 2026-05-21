@@ -1,0 +1,118 @@
+<div align="center">
+
+# Hola, soy Pablo Sebastián 👋
+
+**Estudiante de Ingeniería en Energías Renovables y Tecnología del Hidrógeno**  
+Universidad de Huelva · Huelva, España 🇪🇸
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-sebasti%C3%A1n-dos-santos-279927364/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.sebastian@alu.uhu.es)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pablo-UHU)
+
+</div>
+
+---
+
+## 👨‍🔬 Sobre mí
+
+Soy estudiante de **1º de Ingeniería en Energías Renovables y Tecnología del Hidrógeno** en la Universidad de Huelva, con un fuerte interés en la transición energética, el hidrógeno verde y la simulación de sistemas energéticos.
+
+Me apasiona combinar la ingeniería con la tecnología: desde modelar electrolizadores en MATLAB hasta desarrollar herramientas digitales que apoyen proyectos de energía sostenible.
+
+```python
+pablo = {
+    "universidad": "Universidad de Huelva",
+    "grado":       "Ing. Energías Renovables & Tecnología del Hidrógeno",
+    "curso":       "1º — 2024/2025",
+    "intereses":   ["Hidrógeno verde", "Energía solar y eólica", "Simulación energética", "IA aplicada"],
+    "actualmente": "Aprendiendo C++, MATLAB y fundamentos de programación",
+    "meta":        "Contribuir a la descarbonización del sector energético"
+}
+```
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<div align="center">
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-DC3D24?style=for-the-badge&logo=autodesk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Proyectos destacados
+
+### ⚡ [Electrolizador PEM — Simulación MATLAB](https://github.com/Pablo-UHU/Portfolio-Hidrogeno-Energias-Renovables)
+> Modelado y simulación de un electrolizador de membrana de intercambio protónico (PEM) para la producción de **hidrógeno verde**. Incluye curvas de polarización, eficiencia faradaica y análisis termodinámico.
+
+`MATLAB` `Electroquímica` `Hidrógeno Verde` `Simulación`
+
+---
+
+### 🌐 Dashboard de Optimización Personal
+> Aplicación de escritorio desarrollada con Electron para gestión académica, entrenamiento y nutrición. Diseño oscuro, persistencia local y planificación diaria automática.
+
+`Electron` `JavaScript` `HTML/CSS` `Node.js`
+
+---
+
+### 📐 Proyectos de Asignaturas — UHU
+> Resolución de problemas y prácticas de las asignaturas del grado: Álgebra, Física II, Electrónica Industrial y Fundamentos de Informática.
+
+`C++` `MATLAB` `Álgebra lineal` `Física`
+
+---
+
+## 📈 Estadísticas GitHub
+
+<div align="center">
+
+![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablo-UHU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-UHU&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Objetivos 2025
+
+- [x] Iniciar el grado en Energías Renovables y Tecnología del Hidrógeno
+- [x] Primer proyecto de simulación con MATLAB (Electrolizador PEM)
+- [ ] Aprender Python para análisis de datos energéticos
+- [ ] Publicar 5+ proyectos técnicos en GitHub
+- [ ] Colaborar en un proyecto de energía solar o eólica
+- [ ] Conseguir unas prácticas en el sector renovable
+
+---
+
+## 📚 Actualmente aprendiendo
+
+```
+🔋  Electroquímica y sistemas de hidrógeno
+⚡  Electrónica Industrial
+📐  Álgebra Lineal y Física II
+💻  Fundamentos de Informática (C++)
+📊  Gestión y Organización de Empresas energéticas
+```
+
+---
+
+<div align="center">
+
+*"La energía que más abunda en el universo es la del cambio. Úsala bien."*
+
+**¿Hablamos? →** pablo.sebastian@alu.uhu.es
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Pablo-UHU&color=7c6af5&style=flat-square&label=Visitas+al+perfil)
+
+</div>
